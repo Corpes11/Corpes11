@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
 
-Sou um jovem desenvolvedor em busca de evolução!(https://github.com/Corpes11))
+Sou um jovem desenvolvedor em busca de evolução ! (https://github.com/Corpes11)
 
 - ❤ Estudante de banco de dados
 - 👩‍💻 Aprendendo sobre back-end e front-end
