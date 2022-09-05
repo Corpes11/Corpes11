@@ -1,19 +1,18 @@
 <img src = "banner.gif" width = "325px" align = "right">
 
-# ❤ Olá, bom ter você por aqui!
+# ❤ Olá, é um prazer tê-lo aqui !
   <div id="badges">
-  <a href = "https://github.com/risoflorais">
+  <a href = "https://github.com/Corpes11">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
 
-Sou desenvolvedora de jogos, amo jogos indie, e já participei do [GameJam de 2020](https://github.com/risoflorais).
+Sou um jovem desenvolvedor em busca de evolução!(https://github.com/Corpes11))
 
-- ❤ Estudante de Game Design
-- 💙 Fã da Alura
-- 👩‍💻 Aprendendo algo sobre back-end
+- ❤ Estudante de banco de dados
+- 👩‍💻 Aprendendo sobre back-end e front-end
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
