@@ -11,7 +11,7 @@
 
 Sou um jovem desenvolvedor em busca de evolução ! (https://github.com/Corpes11)
 
-- ❤ Estudante de banco de dados
+- ❤ Estudante de programação WEB 
 - 👩‍💻 Aprendendo sobre back-end e front-end
 
 <div>
