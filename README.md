@@ -1,6 +1,6 @@
 <img src = "banner.gif" width = "325px" align = "right">
 
-# ♨️ Seja bem vindo ao meu perfil !
+# ♨️ SEJA BEM VINDO AO MEU PERF !
   <div id="badges">
   <a href = "https://www.linkedin.com/in/kauan-corpes-b8b928241/"/>
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
