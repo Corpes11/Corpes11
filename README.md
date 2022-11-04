@@ -12,7 +12,7 @@
 Sou um jovem desenvolvedor em busca de evolução ! (https://github.com/Corpes11)
 
 - ❤ Estudante de programação WEB 
-- 👩‍💻 Aprendendo sobre back-end e front-end
+- 👩‍💻 Aprendendo sobre front-end
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
