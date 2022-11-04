@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href = "https://contate.me/kauan_corpes"/>
-  <img src="https://img.shields.io/badge/Whatsapp-#006400?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
+  <img src="https://img.shields.io/badge/Whatsapp-darkgreen?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
   </a>
   <a href = "https://www.instagram.com/kauan_corpes"/>
   <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
