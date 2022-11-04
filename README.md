@@ -5,7 +5,9 @@
   <a href = "https://github.com/Corpes11"></a>
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href = "https://github.com/Corpes11">
   <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
 </div>
 
 Sou um jovem desenvolvedor em busca de evolução ! (https://github.com/Corpes11)
